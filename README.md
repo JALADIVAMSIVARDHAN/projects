@@ -13,7 +13,7 @@ This is a web based application developed for health related based website in in
 - Static web apps
 - Health bot
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
@@ -26,24 +26,30 @@ This is a web based application developed for health related based website in in
 
 
 
+![Screenshot_20221220_180323](https://user-images.githubusercontent.com/117451627/208669359-6a3f183b-56f7-4cac-a463-cfbd1694baa6.png)
 
    
 
 ### About Us -
 
+![Screenshot_20221220_181032](https://user-images.githubusercontent.com/117451627/208669774-712d1f9f-ddec-4e36-8167-dc21f1e5c407.png)
 
 
-### Services -
+### treatments -
 
+![Screenshot_20221220_181111](https://user-images.githubusercontent.com/117451627/208669930-920c7108-3ab8-45ee-bcfe-749dad6ff9fb.png)
 
 
 ### Contact us -
 
+![Screenshot_20221220_180927](https://user-images.githubusercontent.com/117451627/208669631-3121915f-032b-4a07-bab7-ce334f058df7.png)
 
 
 ### health bot
 
 
+
+![Screenshot_20221220_181223](https://user-images.githubusercontent.com/117451627/208670085-c36dba30-696a-4d5e-83cc-09d26e7c665b.png)
 
 
 ## Tech Stack 💻
